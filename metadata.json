@@ -1,0 +1,5 @@
+{
+  "name": "snp",
+  "description": "An AI-powered bioinformatics tool to predict SNP pathogenicity and extract genomic data.\n",
+  "requestFramePermissions": []
+}
